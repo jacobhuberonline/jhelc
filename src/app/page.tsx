@@ -8,7 +8,7 @@ export const metadata = {
     "Personal site of Jacob Huber – seasoned problem‑solver and versatile technologist with a passion for elegant, pragmatic solutions.",
 }
 
-export default function Home() {
+export default function Home() { 
   return (
     <section className="mx-auto max-w-5xl px-6 py-12 space-y-24">
       {/* ---------- Hero ---------- */}
